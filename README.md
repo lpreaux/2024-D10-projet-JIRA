@@ -6,7 +6,7 @@ Ce dépôt contient la documentation et les ressources utilisées lors du TP de 
 
 Ce travail pratique avait pour objectif de nous familiariser avec les outils JIRA et Confluence en créant et configurant un espace de projet complet. Au cours de ce TP, nous avons exploré les fonctionnalités essentielles de ces outils de gestion de projet et de documentation.
 
-Vous pouvez trouver la restitution de notre travail ici : [Document de Restititution - TP Jira.pdf](./Document de Restititution - TP Jira.pdf)
+Vous pouvez trouver la restitution de notre travail ici : [Document de Restitution - TP JIRA.pdf](<./Document de Restitution - TP JIRA.pdf>)
 
 ## 🎯 Objectifs pédagogiques
 
@@ -23,7 +23,7 @@ Vous pouvez trouver la restitution de notre travail ici : [Document de Restititu
 ├── README.md
 ├── img/                                        # Captures d'écran du projet
 ├── src/                                        # Le document source au format docx pour d'évetuels modifications future
-└── Document de Restititution - TP Jira.pdf     # Restitution du travail final au format pdf
+└── Document de Restititution - TP JIRA.pdf     # Restitution du travail final au format pdf
 ```
 
 ## 🔍 Points clés appris
